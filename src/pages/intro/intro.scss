@@ -1,0 +1,29 @@
+page-intro {
+
+    .swiper-pagination-bullet-active{
+        background:#fff; 
+    }
+
+
+    h1{
+        color:#ededed;
+    }
+    
+    p{
+        color:#ededed;
+        font-family: OpenSans;
+        font-size: 14px;
+    }
+
+    .bg-image{
+        background-image: url('../assets/imgs/intro-img.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .padding{
+        padding-bottom: 100px;
+    }
+}
+
